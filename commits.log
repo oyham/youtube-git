@@ -1,0 +1,110 @@
+commit e4f3111e3dd916f912f20d532d33e62608db7a88
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:26:54 2022 -0300
+
+    Agregando 2 parrafos
+
+commit 7064104436530813163cbb8b6419ce2a610929fb
+Merge: da96a17 b9a787d
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:24:51 2022 -0300
+
+    Resolviendo conflico en  estaciones del año con fecha de inicio
+
+commit da96a17f5c4d91c202c35e8cb6a805e1dda07aa8
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:10:12 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b9a787d50c2916e64794a3f70d69869939d92264
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:10:12 2022 -0300
+
+    Agregando estaciones del año
+
+commit 186991eaf50dee4951385a9dcb76190b1ffd3b19
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:03:29 2022 -0300
+
+    Guardando archivo index.html con ctr+s y haciendo un push al repositorio
+
+commit 06c7c4fbd3afb60400f7abad7ce9aa7b79683621
+Merge: fc4f7d2 83b55ee
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 07:00:56 2022 -0300
+
+    Resolviendo conflicto merge main/html en el doc index.html
+
+commit 83b55eea0d5e7a1bd1afccbb26c2f743cc19579a
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 06:53:06 2022 -0300
+
+    Agregando index.js al index.html
+
+commit fc4f7d2c93c9371e115a89ab07eec023cc3fdad2
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 06:51:40 2022 -0300
+
+    Agregando style.css al index.html
+
+commit c44192dfb2df270be2e800d94521d540af9c76ed
+Merge: 5de3f30 8604171
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Mon Nov 7 06:42:17 2022 -0300
+
+    Merge branch 'js'
+
+commit 8604171bd2f488186870861d2590f2616d7e703f
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Sat Nov 5 08:53:22 2022 -0300
+
+    Elimminando style.css de branch js
+
+commit 0046285d44e6ec3d865164eb51d340c48c059514
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Sat Nov 5 08:46:30 2022 -0300
+
+    Creando index.js
+
+commit 5de3f30cb3ec62f43e2023f0bcc985f47556a9aa
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Sat Nov 5 08:42:41 2022 -0300
+
+    Creando style.css
+
+commit 5e231d25a63fa0ce89a456eb8e123c3cb3622d36
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Sat Nov 5 08:39:33 2022 -0300
+
+    Creando  index.html
+
+commit 8ca888c87b761a977a9a275051c24fd1655455b0
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Sat Nov 5 08:26:47 2022 -0300
+
+    Ignorando archivos .exe
+
+commit 5d78af7fe724da408d170262555a0b27826f5cec
+Author: oyham <97111287+oyham@users.noreply.github.com>
+Date:   Fri Nov 4 11:40:16 2022 -0300
+
+    Creando licencia del repositorio
+
+commit 717f9c68d26acdc549f2f70b166b0e1f290e7344
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Fri Nov 4 11:27:31 2022 -0300
+
+    Agregando mas contenido al README
+
+commit ef43983b8358b014de2f23a1e2ba611117bef0a0
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Fri Nov 4 11:14:53 2022 -0300
+
+    Agregando contenido inicial al README
+
+commit f962cb33c681ba61b21730b04af2dc1558315c18
+Author: Oyham <voyhamburu@gmail.com>
+Date:   Fri Nov 4 11:09:56 2022 -0300
+
+    Primer commit :D
